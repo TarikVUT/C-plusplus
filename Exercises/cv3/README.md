@@ -1,16 +1,16 @@
 # VUT SCP-C++
 ### Exercis 3
 
-***Napište třídu pro reprezentaci komplexní čísla, která bude zapouzdřovat následující metody:***
-–Konstruktor se dvěma parametry pro zadání reálné a imaginární části
-–Nastavení hodnoty reálné částivoidsetr(doubler)
-–Nastavení hodnoty imaginární částivoidseti(doublei)
-–Vracení hodnoty reálné částidoublegetr(void)
-–Vracení hodnoty imaginární částidoublegeti(void)
-–Výpočet modulu KČdoublemodul(void)
-–Výpočet fáze KČdoublefaze(void)
-–Funkce pro výpis komplexního čísla na konzolivoidtisk(void)
-–Implementované funkce vyzkoušejte v programu. Vytvořte statickou i dynamickou instanci objektu komplexního čísla.
+***Napište třídu pro reprezentaci komplexní čísla, která bude zapouzdřovat následující metody:***\
+–Konstruktor se dvěma parametry pro zadání reálné a imaginární části\
+–Nastavení hodnoty reálné částivoidsetr(doubler)\
+–Nastavení hodnoty imaginární částivoidseti(doublei)\
+–Vracení hodnoty reálné částidoublegetr(void)\
+–Vracení hodnoty imaginární částidoublegeti(void)\
+–Výpočet modulu KČdoublemodul(void)\
+–Výpočet fáze KČdoublefaze(void)\
+–Funkce pro výpis komplexního čísla na konzolivoidtisk(void)\
+–Implementované funkce vyzkoušejte v programu. Vytvořte statickou i dynamickou instanci objektu komplexního čísla.\
 
 ### Code in C++
 ```C++

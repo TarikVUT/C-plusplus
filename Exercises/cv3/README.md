@@ -84,4 +84,4 @@ int main()
 	return 0;
 }
 ```
-![Code after running](./images/image 1.png)
+![Code after running](./images/image 1.PNG)

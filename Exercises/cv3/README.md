@@ -84,3 +84,4 @@ int main()
 	return 0;
 }
 ```
+[Code after running](image 1.PNG)

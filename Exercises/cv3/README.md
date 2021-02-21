@@ -1,5 +1,5 @@
-#VUT SCP-C++
-###Exercis 3
+# VUT SCP-C++
+### Exercis 3
 
 *** Napište třídu pro reprezentaci komplexní čísla, která bude zapouzdřovat následující metody:***
 –Konstruktor se dvěma parametry pro zadání reálné a imaginární části
@@ -12,7 +12,7 @@
 –Funkce pro výpis komplexního čísla na konzolivoidtisk(void)
 –Implementované funkce vyzkoušejte v programu. Vytvořte statickou i dynamickou instanci objektu komplexního čísla.
 
-###Code in C++
+### Code in C++
 ```C++
 #include <iostream>
 #include <math.h>

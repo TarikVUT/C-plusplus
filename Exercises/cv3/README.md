@@ -84,4 +84,4 @@ int main()
 	return 0;
 }
 ```
-![image](./images/image 1.PNG)
+![](images/image 1.PNG)

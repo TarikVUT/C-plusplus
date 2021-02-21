@@ -84,5 +84,5 @@ int main()
 	return 0;
 }
 ```
-***Code after running*** \\
+***Code after running*** \
 ![](https://github.com/TarikVUT/SCP-C-/blob/main/Exercises/cv3/images/image%201.PNG) 

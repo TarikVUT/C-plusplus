@@ -84,4 +84,4 @@ int main()
 	return 0;
 }
 ```
-![](images/image 1.PNG)
+<img src="https://github.com/TarikVUT/SCP-C-/blob/main/Exercises/cv3/images/image%201.PNG" /> 

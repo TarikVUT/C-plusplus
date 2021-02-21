@@ -1,7 +1,7 @@
 # VUT SCP-C++
 ### Exercis 3
 
-*** Napište třídu pro reprezentaci komplexní čísla, která bude zapouzdřovat následující metody:***
+***Napište třídu pro reprezentaci komplexní čísla, která bude zapouzdřovat následující metody:***
 –Konstruktor se dvěma parametry pro zadání reálné a imaginární části
 –Nastavení hodnoty reálné částivoidsetr(doubler)
 –Nastavení hodnoty imaginární částivoidseti(doublei)

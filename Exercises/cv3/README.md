@@ -57,32 +57,38 @@ public:
 	}
 	void tisk()
 	{
-		cout << "Your Comlex number = " << getr() << " + " << geti() << "i" << endl;
-
-	}
-	void All_in_one()
-	{
-		tisk();
+		if (image > 0)
+		{
+			cout << "Your Comlex number = " << getr() << " + " << geti() << "i" << endl;	
+		}
+		else                                                                          	//if image < 0
+		{
+			image = -1 * image;
+			cout << "Your Comlex number = " << getr() << " - " << geti() << "i" << endl;	
+		}
 		cout << "Modul = " << modul() << endl;
 		cout << "Faze  = " << faze() << endl;
 	}
-
+	
 };
 
 
 
 int main()
 {		//Static object 
-	Complex number1(10, 20);
-	number1.All_in_one();
+	Complex number1(10, -20);
+	number1.tisk();
 
+	cout << endl;
 		// Dynamic object
 	Complex* number2;
 	number2 = new Complex(15,25);
-	number2->All_in_one();
+	number2->tisk();
 
 	return 0;
 }
+
+
 ```
 ***Code after running*** \
 ![](https://github.com/TarikVUT/SCP-C-/blob/main/Exercises/cv3/images/image%201.PNG) 
